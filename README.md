@@ -1,5 +1,5 @@
 # FlipkartSimilarityDS
-Finding Similarity between different products and making it in to a simple item-item collabarative system.
+Finding Similarity between different products
 
 The link to the dataset is as https://www.kaggle.com/PromptCloudHQ/flipkart-products
 
